@@ -12,4 +12,8 @@ public class SomeProgram {
     public void manageTheSatellite() {
         // TODO implement
     }
+
+    private int helperFunction() {
+        return 1;
+    }
 }
